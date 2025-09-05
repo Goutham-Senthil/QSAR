@@ -1,4 +1,4 @@
-# QSAR
+# QSAR-Based Prediction of Liver Metabolism (CYP450)
 
 This is a QSAR based approach to predict if a given compound will be metabolized by the liver (Cytochrome P450) or not
 
