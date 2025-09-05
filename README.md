@@ -7,8 +7,10 @@ This is a QSAR based approach to predict if a given compound will be metabolized
 There are 2 datasets used in this project 
 
 ### 1 . DrugBank
-available at [DrugBank]([https://go.drugbank.com/](https://go.drugbank.com/releases/latest))
+available at [DrugBank](https://go.drugbank.com/](https://go.drugbank.com/releases/latest )
+
 You will need an academic license to use this dataset
+
 The version of the dataset used for this dataset is 5.1.13	
 
 ### 2. ChEMBL
