@@ -24,7 +24,10 @@ The version of the dataset used for this dataset is `chembl_35.db`
 
 ## Running the project 
 
-1. install the requriemts as per the requriemts.txt
+1. 1. Install the required packages:
+ ```bash
+ pip install -r requirements.txt
+```
 2. Run Code_1A.ipynb until you the mark down that says `save the dataset`  (extract all compounds from DrugBank)
 3. Run the full ChEMBL_dataset_extraction.ipynb
 4. Run the remaining of Code_1A.ipynb 
