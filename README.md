@@ -18,9 +18,9 @@ Available at [ChEMBL](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLdb/latest
 
 The version of the dataset used for this dataset is `chembl_35.db`
 
-## AdmetLab 3.0 Calculation
+## ADMETLab 3.0 Calculation
 
-[ADmetlab3.0](https://admetmesh.scbdd.com/)  was used to get CYP450 isoform metabolite scores and this was done by submitting the smiles values 500 at a time. This task was done manually and for the ease of seeing the results , I have done the extraction and all the values are present in the directory `clean_smiles_bacth_values_admet_3`. 
+[ADMETLab3.0](https://admetmesh.scbdd.com/)  was used to get CYP450 isoform metabolite scores and this was done by submitting the smiles values 500 at a time. This task was done manually and for the ease of seeing the results , I have done the extraction and all the values are present in the directory `clean_smiles_bacth_values_admet_3`. 
 
 ## Running the project 
 
