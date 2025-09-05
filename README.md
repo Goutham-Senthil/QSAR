@@ -7,13 +7,13 @@ This is a QSAR based approach to predict if a given compound will be metabolized
 There are 2 datasets used in this project 
 
 ### 1 . DrugBank
-available at 
+available at [DrugBank]([https://go.drugbank.com/](https://go.drugbank.com/releases/latest))
 You will need an academic license to use this dataset
-The version of the dataset used for this dataset is DrugBank 6
-### 2. ChEMBL
+The version of the dataset used for this dataset is 5.1.13	
 
-available at 
-The version of the dataset used for this dataset is chembl_35.db
+### 2. ChEMBL
+available at [ChEMBL](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLdb/latest/)
+The version of the dataset used for this dataset is `chembl_35.db`
 
 ### AdmetLab 3.0 Calculation
 
@@ -22,10 +22,9 @@ ADmetlab3.0 was used to get CYP450 isoform metabolite scores and this was done b
 ### Running the project 
 
 1. install the requriemts as per the requriemts.txt
-2. Run Code_1A.ipynb until you save the dataset (extract all compounds from DrugBank)
-3. Run the full ChEMBL_dataset_extraction.ipynb 
-
-
+2. Run Code_1A.ipynb until you the mark down that says `save the dataset`  (extract all compounds from DrugBank)
+3. Run the full ChEMBL_dataset_extraction.ipynb
+4. Run the remaining of Code_1A.ipynb 
 
 This project aimed to answer the following research questions 
 
