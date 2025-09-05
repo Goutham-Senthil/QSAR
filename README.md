@@ -7,19 +7,20 @@ This is a QSAR based approach to predict if a given compound will be metabolized
 There are 2 datasets used in this project 
 
 ### 1 . DrugBank
-available at [DrugBank](https://go.drugbank.com/](https://go.drugbank.com/releases/latest )
+Available at [DrugBank](https://go.drugbank.com/](https://go.drugbank.com/releases/latest )
 
 You will need an academic license to use this dataset
 
 The version of the dataset used for this dataset is 5.1.13	
 
 ### 2. ChEMBL
-available at [ChEMBL](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLdb/latest/)
+Available at [ChEMBL](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLdb/latest/)
+
 The version of the dataset used for this dataset is `chembl_35.db`
 
 ### AdmetLab 3.0 Calculation
 
-ADmetlab3.0 was used to get CYP450 isoform metabolite scores and this was done by submitting the smiles values 500 at a time. This task was done manually and for the ease of seeing the results , I have done the extraction and all the values are present in the directory `clean_smiles_bacth_values_admet_3`. 
+[ADmetlab3.0](https://admetmesh.scbdd.com/)  was used to get CYP450 isoform metabolite scores and this was done by submitting the smiles values 500 at a time. This task was done manually and for the ease of seeing the results , I have done the extraction and all the values are present in the directory `clean_smiles_bacth_values_admet_3`. 
 
 ### Running the project 
 
