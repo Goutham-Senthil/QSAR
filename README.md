@@ -28,7 +28,7 @@ The version of the dataset used for this dataset is `chembl_35.db`
  ```bash
  pip install -r requirements.txt
 ```
-2. Run Code_1A.ipynb until you the mark down that says `save the dataset`  (extract all compounds from DrugBank)
+2. Run Code_1A.ipynb until you the mark down that says "Save the dataset"  (this is to extract all compounds from DrugBank and remove overlap with compounds present in ChEMBL)
 3. Run the full ChEMBL_dataset_extraction.ipynb
 4. Run the remaining of Code_1A.ipynb 
 
