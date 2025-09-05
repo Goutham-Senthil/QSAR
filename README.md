@@ -24,7 +24,7 @@ The version of the dataset used for this dataset is `chembl_35.db`
 
 ## Running the project 
 
-1. 1. Install the required packages:
+1. Install the required packages:
  ```bash
  pip install -r requirements.txt
 ```
