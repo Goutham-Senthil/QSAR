@@ -1,6 +1,23 @@
 # QSAR-Based Prediction of Liver Metabolism (CYP450)
 
-This is a QSAR based approach to predict if a given compound will be metabolized by the liver (Cytochrome P450) or not
+This is a QSAR based approach to predict if a given compound will be metabolized by the liver (Cytochrome P450) or not.
+
+
+## Theory
+QSAR which is short for Quantitative Structure-Activity Relationship are models that use to predict biological activity based on chemical propeties of a compound.
+These chemical properties can include properties like melting point,boiling point,number of hydrogen bonds,etc.
+
+Think of the function like this 
+$$
+\begin{aligned}
+Y = f(X)
+\end{aligned}
+$$
+
+where ,
+Y = target variable (e.g., CYP450 substrate vs. non-substrate)
+f = predictive mapping function or model
+X = set of molecular descriptors
 
 ## Datasets
 
