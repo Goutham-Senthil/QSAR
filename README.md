@@ -32,7 +32,7 @@ You will need an academic license to use this dataset
 The version of the dataset used for this dataset is 5.1.13	
 
 ### 2. ChEMBL
-Available at [ChEMBL](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLdb/latest/)
+Available at [ChEMBL]([https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLdb/latest/](https://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLdb/releases/chembl_35/))
 
 The version of the dataset used for this dataset is `chembl_35.db`
 
