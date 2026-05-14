@@ -9,9 +9,7 @@ These chemical properties can include properties like melting point,boiling poin
 
 Think of the function like this 
 $$
-\begin{aligned}
 Y = f(X)
-\end{aligned}
 $$
 
 where ,
