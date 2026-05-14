@@ -8,14 +8,17 @@ QSAR which is short for Quantitative Structure-Activity Relationship are models 
 These chemical properties can include properties like melting point,boiling point,number of hydrogen bonds,etc.
 
 Think of the function like this 
+
+``` math
 $$
 Y = f(X)
 $$
+```
 
 where ,
-Y = target variable (e.g., CYP450 substrate vs. non-substrate)
-f = predictive mapping function or model
-X = set of molecular descriptors
+- Y = target variable (e.g., CYP450 substrate vs. non-substrate)
+- f = predictive mapping function or model
+- X = set of molecular descriptors
 
 ## Datasets
 
